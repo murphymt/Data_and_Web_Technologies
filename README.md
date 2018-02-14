@@ -1,1 +1,5 @@
-Edit the hw1.ipynb file to complete homework 1.  Be sure to git add, commit, push your final version before the due date of 11:59pm Friday Jan 19th 2018.
+# 141b-HW2
+
+Due Fri 1/26 at 11:59 pm
+
+Modify hw2.ipynb, DO NOT CREATE A NEW FILE.  You can just add your answers as cells.  Don't forget to git add and commit, and doublecheck that your current solution are pushed to the repo.
